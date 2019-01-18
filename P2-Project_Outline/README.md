@@ -19,19 +19,12 @@ Generate invoice: A user may generate an invoice for a specific project, startin
 Track payments: A user may indicate that an invoice has been paid, or track how much of an invoice has been paid by recording a payment and indicating which invoice it applies to.
 
 ### Technologies
-Visual Studio 2017
-
-C#/.NET
-
-ASP Core Framework with Razr Pages
-
-Git Bash
-
-SQL Server
-
-HTML/CSS
-
-
+*Visual Studio 2017
+*C#/.NET
+*ASP Core Framework with Razr Pages
+*Git Bash
+*SQL Server
+*HTML/CSS
 
 
 ### What I'll Have to Learn
