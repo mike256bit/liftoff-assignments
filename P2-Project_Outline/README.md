@@ -20,11 +20,17 @@ Track payments: A user may indicate that an invoice has been paid, or track how 
 
 ### Technologies
 Visual Studio 2017
+
 C#/.NET
+
 ASP Core Framework with Razr Pages
+
 Git Bash
+
 SQL Server
+
 HTML/CSS
+
 
 
 
