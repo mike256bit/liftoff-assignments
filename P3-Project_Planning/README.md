@@ -8,7 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Dashboard: https://github.com/mike256bit/MinVoiCe/blob/master/wireframes/Dashboard.png
+Add Project: https://github.com/mike256bit/MinVoiCe/blob/master/wireframes/Add%20Project.png
+Single Project: https://github.com/mike256bit/MinVoiCe/blob/master/wireframes/Single%20Project.png
+Worktime Confirm: https://github.com/mike256bit/MinVoiCe/blob/master/wireframes/Worktime%20Confirm.png
+Invoice Preview: https://github.com/mike256bit/MinVoiCe/blob/master/wireframes/Invoice%20Preview.png
 
 ### Project Tracker
 
